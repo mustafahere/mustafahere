@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 💻 Computer Science undergraduate at Muhammad Ali Jinnah university
+- 💻 Computer Science undergraduate at Muhammad Ali Jinnah university.
+- 🔭 I'm currently working on MEAN.
+- 📫 How to reach me: https://www.linkedin.com/in/mustafa-jawed-48781b185/
 
 <!--
 **mustafahere/mustafahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
