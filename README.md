@@ -6,5 +6,14 @@
 
 <br/>
 
-<span style="background-color:#eee;padding-right:4px;padding-left:4px;color:black">Node JS</span>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <span style="background-color:#eee;padding-right:4px;padding-left:4px;color:black">Node JS</span>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
+
+
 
