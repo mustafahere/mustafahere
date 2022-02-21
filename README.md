@@ -36,3 +36,6 @@ I'm [Mustafa Jawed](https://mustafaahere.web.app/), an expert full-stack develop
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=mustafahere&show_icons=true&theme=merko)
