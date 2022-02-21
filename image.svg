@@ -2,14 +2,20 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        div{
+        display:flex;
+        gap:10px;
+        }
       span{
         background-color:#eee;
         padding-left:4px;
         padding-right:4px;
         color:black;
+        border-radius:10px;
         }
       </style>
     
+      <div>
       <span>NODE JS</span>
       <span>REACT JS</span>
       <span>ANGULAR JS</span>
@@ -23,7 +29,7 @@
       <span>SOCKET IO</span>
       <span>WEB RTC</span>
       <span>GIT</span>
-      
+      </div>
     </div>
   </foreignObject>
 </svg>
