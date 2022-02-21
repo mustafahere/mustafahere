@@ -15,7 +15,7 @@
 
 I'm [Mustafa Jawed](https://mustafaahere.web.app/), an expert full-stack developer with industry experience building web apps and mobile apps. I'm ambitious, driven, and motivated with a proven record of achievement. I understand the importance of working to deadlines, delivering results across a variety of technical disciplines. I specialize in JavaScript and have professional experience in it.
 
-<h3>Expertise</h3>
+<h3>Expertise 🔥</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
