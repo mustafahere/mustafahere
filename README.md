@@ -31,3 +31,5 @@ I'm [Mustafa Jawed](https://mustafaahere.web.app/), an expert full-stack develop
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-336ee4?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahere&layout=compact&theme=default&langs_count=10&hide=tsql,css" />
