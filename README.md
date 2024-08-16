@@ -3,7 +3,7 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 </div>
 <br />
 
-I'm [Mustafa Jawed](https://mustafaahere.web.app/), an expert full-stack developer with industry experience building web apps and mobile apps. I'm ambitious, driven, and motivated with a proven record of achievement. I understand the importance of working to deadlines, delivering results across a variety of technical disciplines. I specialize in JavaScript and have professional experience in it.
+I'm [Mustafa Jawed](https://mustafaahere.web.app/), an expert full-stack developer with industry experience building web and mobile apps. I'm ambitious, driven, and motivated with a proven record of achievement. I understand the importance of working to deadlines and delivering results across a variety of technical disciplines. I specialize in JavaScript and have professional experience in it.
 
 <h3>Expertise 🔥</h3>
 <p>
@@ -25,5 +25,3 @@ I'm [Mustafa Jawed](https://mustafaahere.web.app/), an expert full-stack develop
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-336ee4?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahere&layout=compact&theme=default&langs_count=10&hide=tsql,css" />
